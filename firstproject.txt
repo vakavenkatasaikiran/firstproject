@@ -1,1 +1,11 @@
-we are all friends
+public class A{
+public static void main(String[] args{
+
+int num1=20;
+int num2=2;
+int result;
+result=num1*num2;
+system.out.println(resulu);
+}
+}
+ 
